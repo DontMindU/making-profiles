@@ -1,2 +1,2 @@
 # making-profiles
-My JS refreshers for 100DaysofCode
+Learning to put together a browser profile.
